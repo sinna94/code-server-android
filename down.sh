@@ -1,0 +1,1 @@
+pgrep node | xargs kill
